@@ -4,7 +4,7 @@
       "MaterialTitle": {
         "Name": "Switching Regulator (BUCK-3A)",
         "PN": "LM2676S-ADJ",
-        "MF": "Texas Instruments (TI)"
+        "MF": "TEXAS INSTRUMENTS (TI)"
       },
       "MID": "MID20262",
       "MD": "LM2676S-ADJ is High Efficiency Step Down Switching Regulator with Wide input voltage range: 8 V to 40 V and adjustable output voltage (3.3V/5V/12V). With maximum load current of 3A.",
